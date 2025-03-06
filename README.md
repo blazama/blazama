@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on teaching
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning C
